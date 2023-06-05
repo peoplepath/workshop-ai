@@ -1,0 +1,51 @@
+**Curriculum Vitae**
+
+**Pedro "Code-Wrangler" Don Fontana**
+
+**Contact Information**
+
+* **Email:** pedrocodeking@universe.com
+* **LinkedIn:** www.linkedin.com/in/pedrodonfontana
+
+**Objective**
+
+Seasoned software engineer with a quirky taste for cosmic innovation, seeking challenging opportunities to leverage my expertise in system development, coding, and my peculiar yet remarkable knack for messing with the fabric of the universe.
+
+**Education**
+
+* **B.Tech in Computer Science**, Bengal Engineering and Science University, India (August 2018 - June 2022)
+
+**Work Experience**
+
+* **Creator & Lead Developer**, Acorn Kernel (July 2022 - Present)
+  - Pioneered the development of Acorn Kernel, an innovative operating system forming the backbone of Plan 9 distributions and a plethora of other platforms.
+  - Initiated seamless integrations and troubleshooting measures, reducing system crashes by 80%.
+
+* **Developer of the Universal Control System**, Universe Inc. (January 2023 - Present)
+  - Successfully created the UCS, a universal remote that can manipulate the cosmic constructs of the universe.
+  - Earned the "Interstellar Innovator" award for adjusting the brightness of the cosmos by a factor of 3%.
+
+* **Freelance Tech Support**, Uncle Jerry (July 2022 - Present)
+  - Provided consistent technical support to Uncle Jerry, ensuring his beloved, albeit obsolete, Windows 98 system remains operational.
+  - Resolved an array of issues ranging from slow booting to noises resembling a wailing feline.
+
+**Technical Skills**
+
+* Programming Languages: C++, Python, Java, Assembly
+* Operating Systems: Windows, Linux, Plan 9
+* Special Skills: Juggling binary code, controlling cosmic constants
+
+**Certifications**
+
+* Certified Information Systems Security Professional (CISSP) - (ISC)², 2022
+* Certified Ethical Hacker (CEH) - EC-Council, 2022
+
+**Interests**
+
+* Cosmic channel surfing
+* Adjusting universal brightness and volume
+* Cheetos culinary experimentation
+
+**References**
+
+Available upon request

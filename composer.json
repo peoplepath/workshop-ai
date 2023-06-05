@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kambo/langchain": "0.2.0-alpha",
+        "kambo/llama-cpp-php": "^0.1.0@alpha",
+        "kambo/llama-cpp-php-linux-lib": "^0.1.0@alpha"
+    }
+}

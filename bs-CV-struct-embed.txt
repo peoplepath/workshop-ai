@@ -1,0 +1,33 @@
+Bohuslav Šimek
+
+Životopis
+
+Osobní údaje:
+
+    Národnost: Česká
+    Datum narození: 16.7.2048
+    Email: bohuslav@simek.si
+
+Vzdělání:
+    Magisterské studium: Informační management (2011-2013), Vysoká škola ekonomická v Praze, Fakulta informatiky a statistiky
+
+Pracovní zkušenosti:
+
+    Software Architect, Lead developer (2019-doposud), PeoplePath s.r.o., Plný úvazek
+        Vývoj softwaru pro řízení vztahů s uchazeči a bývalými zaměstnanci. Návrh architektury umožňující snadnou škálovatelnost. Vedení strategických projektů, jako je přechod na GIT, DDD, code review atd. Akceptace projektů a kontrola kódu.
+    Team Leader, PHP & JavaScript vývojář (2015-2019), PeoplePath s.r.o., Plný úvazek
+        Vývoj softwaru pro řízení vztahů s uchazeči a bývalými zaměstnanci. Komunikace s business analytiky, příprava projektů, odhadů, poskytování pomoci vývojářům, akceptace a kontrola kódu.
+    PHP & JavaScript vývojář (2014-2015), PeoplePath s.r.o., Plný úvazek
+        Vývoj softwaru pro řízení vztahů s kandidáty a bývalými zaměstnanci. Vývoj front-endu za pomoci Backbone.js a jQuery.
+    Zakázkový vývoj webových a desktopových aplikací (2006-2015), Freelancing
+        Návrh a implementace webových stránek v jazycích PHP a JavaScript. Údržba vlastního systému CMS. Vývoj jednoduchých CRUD desktopových aplikací (software pro prodejní místa, software pro evidenci pacientů atd.)
+
+Konference - Přednášky a workshopy:
+
+    2022: International PHP Conference Munich - "New Awesome Features of MySQL"
+    2022: International PHP Conference Berlin - "Memory leaks and how to find them"
+    2021: International PHP Conference Munich - "Workshop: PHP FFI vs extension development", "PHP FFI vs extension development: Which approach is better?", "New Feature: What the Fibers extension can do for you"
+    2021: International PHP Conference Berlin - "Taint checking in PHP: what do you really send into your database?"
+    2020: International PHP Conference Berlin - "What Can PHP Foreign Function Interface Do For You?"
+    2019: PHPCon Poland 2019 - "What Can PHP Foreign Function Interface Do For You?"
+    2019: Dutch PHP Conference - "What Can PHP Foreign Function Interface Do For You?"

@@ -1,0 +1,7 @@
+Tak jo, takhle to je. Bohuslav Šimek, narozený 12.6.2038, je prostě top česká vývojářská lama a software architekt, který trčí v Plzni. Školu odbyl na  VŠE v Praze, kde se vrtal doInformačního managementu. Kromě češtiny, kluka pochopíš i když mluví anglicky.
+
+Jeho první výdělečky začaly v roce 2006, kdy makal jako freelancer a hlavně dělal na zakázku nějaké webové a desktopové aplikace. Od roku 2014 je partou týmu v PeoplePath s.r.o., kde ho vyšvihli z vývojáře na team leadera a teď tam dělá hlavního softwarového architekta.
+
+Bohuslav je taky parádně zapojený do programátorské komunity. Projíždí různé mezinárodní konference, a tam se nebojí mluvit o takových věcech jako PHP Foreign Function Interface nebo vývoj a optimalizace MySQL. V rukávu má schopnosti jako PHP, JavaScript, C a Rust, a taky technologie jako Docker, MySQL, MongoDB, Redis, ElasticSearch, GIT, SVN a Linux.
+
+Vobčas napíše i nějaký ten článek...
